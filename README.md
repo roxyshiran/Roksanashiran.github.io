@@ -1,5 +1,5 @@
-# Roksanashiran.github.io
-I have a Swiss B- Permit 
+# Roksana Shiran
+
 
 Dedicated and detail-oriented professional with a demonstrated history of fostering cross-functional collaboration and adeptly navigating complex scenarios. As a Canadian, I possess exceptional communication skills and a keen aptitude for acquiring new languages.
 
