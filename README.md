@@ -31,7 +31,7 @@ TMJ joint therapy assistant                                                    2
 	Managed over 200 patient records, ensuring 100% accuracy in documentation and compliance with privacy protocols.
 	Acted as the primary point of contact for patient care, providing direct support to TMJ specialists in a fast-paced clinic.
 
-Sports in health care services                                               2019 – 2021 CA
+Sports in health care services                                               2019 – 2021 
 Self-employed 
 
 	Designed and implemented tailored physical activity programs for elderly individuals with special needs, improving their mobility and overall well-being.
@@ -47,7 +47,7 @@ Physiotherapist assistant                                                      2
 	Enforced safety protocols throughout therapy sessions, ensuring patient safety and reducing the risk of injury.
 	Educated patients on at-home exercises and recovery strategies to promote long-term health and well-being.
 
-Basketball head coach (TISA)                                               2016 – 2019 AZ
+Basketball head coach (TISA)                                               2016 – 2019 
 The International School of Azerbaijan 
 
 	Developed and implemented comprehensive training programs to enhance player skills, focusing on fundamentals, advanced techniques, and game strategy.
@@ -55,7 +55,7 @@ The International School of Azerbaijan
 	Fostered teamwork, sportsmanship, and leadership among players, creating a positive and disciplined team culture both on and off the court.
 	Analyzed game footage and devised tailored strategies for each match, leading to a 40% improvement in win rates over the course of the coaching tenure.
 
-CEO/ Funder of Refugee young support of education        2016 – 2019 AZ
+CEO/ Funder of Refugee young support of education        2016 – 2019 
 The UN Refugee Agency 
 
 	Established and led a summer education program for refugee youth, increasing participation by 30% in the first year through targeted outreach and effective program management.
@@ -64,7 +64,7 @@ The UN Refugee Agency
 	Recruited, trained, and managed a team of 10 educators and volunteers, ensuring the delivery of high-quality educational services in challenging conditions.
 	Built strong relationships with local communities and stakeholders, resulting in sustained program growth and continued support from international agencies.
 
-University Lecturer                                                                  2012 – 2015 IR
+University Lecturer                                                                  2012 – 2015 
 Islamic Azad University of Tehran 
 
 	 Delivered engaging classroom lectures in sports science and health-related subjects to undergraduate and graduate students, consistently receiving positive feedback from both students and faculty.
