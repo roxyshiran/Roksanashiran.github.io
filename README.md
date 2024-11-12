@@ -15,7 +15,7 @@ Bachelor. Sports Science
 
 - MBA in management                                                                           2024 IN
 IIMA – IIM Ahmedabad
-## 👩🏽‍💻 Work Exprince 
+## 👩🏽‍💻 Work Experince
  
 
  - Main Street Dental/ Office Manager                                      2022 – 2023 Canada  
