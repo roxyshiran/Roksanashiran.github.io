@@ -4,16 +4,16 @@
 Dedicated and detail-oriented professional with a demonstrated history of fostering cross-functional collaboration and adeptly navigating complex scenarios. As a Canadian, I possess exceptional communication skills and a keen aptitude for acquiring new languages.
 
 # 👩🏽‍🏫 Education  
-- University of Bern                                                                   2023 – Pre   CH
+- University of Bern                                                                   2023 – Pre   
 PhD. Health Science Human  
 
-- University of Islamic Azad of Karaj                                                2011 – 2014 IR
+- University of Islamic Azad of Karaj                                                2011 – 2014 
 MA. Sports Science 
 
-- University of Islamic Azad of Shoushtar                               2009 – 2011 IR
+- University of Islamic Azad of Shoushtar                               2009 – 2011 
 Bachelor. Sports Science 
 
-- MBA in management                                                                           2024 IN
+- MBA in management                                                                           2024 
 IIMA – IIM Ahmedabad
 ## 👩🏽‍💻 Work Experience
  
