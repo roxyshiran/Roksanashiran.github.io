@@ -18,27 +18,29 @@ IIMA – IIM Ahmedabad
 ## work exprince 
  
 
-Main Street Dental/ Office Manager                                      2022 – 2023 CA                                        Dr. Caroline Chio                                                                                                                             
+ Main Street Dental/ Office Manager                                      2022 – 2023 CA  
+ 
 	Managed day-to-day operations, including appointment scheduling for over 100 patients weekly, improving clinic efficiency and reducing patient wait times by 15%.
 	 Led a team of administrative staff, ensuring smooth teamwork and coordination between front desk and clinical staff.
 	Developed and enforced safety protocols, ensuring compliance with healthcare regulations and enhancing the clinic’s safety standards.
 	Oversaw accurate patient record management, achieving a 98% accuracy rate in documentation and contributing to high-quality patient care.
 
 TMJ joint therapy assistant                                                    2021 – 2022 CA
-Dr. Roger Cheung/ Dr. Edmund Liem/ Dr. Lara Perel-Panar
+
 	Assisted in therapy sessions, facilitating patient exercises and monitoring progress, contributing to improved recovery outcomes for 85% of patients.
 	Managed over 200 patient records, ensuring 100% accuracy in documentation and compliance with privacy protocols.
 	Acted as the primary point of contact for patient care, providing direct support to TMJ specialists in a fast-paced clinic.
 
 Sports in health care services                                               2019 – 2021 CA
 Self-employed 
+
 	Designed and implemented tailored physical activity programs for elderly individuals with special needs, improving their mobility and overall well-being.
 	Provided one-on-one support, focusing on injury prevention, strength building, and enhancing balance and flexibility.
 	Collaborated with healthcare providers to create customized fitness plans that addressed the unique health challenges of elderly clients, resulting in a 25% improvement in client mobility over the course of treatment.
 	Monitored client progress, adjusting exercise routines based on their physical capabilities, and provided ongoing motivation to help them achieve long-term health goals.
 
 Physiotherapist assistant                                                      2019 – 2020 CA
-Dr. Estell Router 
+
 	Assisted physiotherapists in delivering personalized patient care, supporting over 50 patients with rehabilitation exercises and mobility improvement.
 	 Set up and maintained therapeutic equipment, ensuring all devices were properly sanitized and functional before each session.
 	Monitored patient progress during exercises, providing feedback to physiotherapists to adjust treatment plans as needed.
@@ -47,6 +49,7 @@ Dr. Estell Router
 
 Basketball head coach (TISA)                                               2016 – 2019 AZ
 The International School of Azerbaijan 
+
 	Developed and implemented comprehensive training programs to enhance player skills, focusing on fundamentals, advanced techniques, and game strategy.
 	Led the team to multiple tournament victories, consistently improving player performance and team rankings over three seasons.
 	Fostered teamwork, sportsmanship, and leadership among players, creating a positive and disciplined team culture both on and off the court.
@@ -54,6 +57,7 @@ The International School of Azerbaijan
 
 CEO/ Funder of Refugee young support of education        2016 – 2019 AZ
 The UN Refugee Agency 
+
 	Established and led a summer education program for refugee youth, increasing participation by 30% in the first year through targeted outreach and effective program management.
 	Successfully collaborated with NGOs, local organizations, and the UNHCR to secure funding and resources, enabling the program to serve over 500 refugee children annually.
 	Developed and implemented a curriculum focused on education, health, and sports, ensuring holistic development for youth from diverse refugee backgrounds.
@@ -62,6 +66,7 @@ The UN Refugee Agency
 
 University Lecturer                                                                  2012 – 2015 IR
 Islamic Azad University of Tehran 
+
 	 Delivered engaging classroom lectures in sports science and health-related subjects to undergraduate and graduate students, consistently receiving positive feedback from both students and faculty.
 	Provided one-on-one mentoring and academic advising to over 50 students, guiding them in research projects, thesis development, and career planning.
 	Developed and implemented innovative teaching strategies that enhanced student engagement and understanding of complex concepts.
