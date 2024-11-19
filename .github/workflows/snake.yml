@@ -10,13 +10,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Debug Environment
         run: env
 
       - name: Generate Snake Animation
-        uses: Platane/snk@v2
+        uses: Platane/snk@v2.16.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           output: dist/github-contribution-grid-snake.svg
