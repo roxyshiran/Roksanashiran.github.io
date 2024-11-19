@@ -1,7 +1,5 @@
 
-
-![mishmanners gaming room - gif of my actual gaming room setup](https://github.com/MishManners/MishManners/blob/master/MishManners%20Room%20animated.gif)
-
+![roxyshiran gaming room - gif of my actual gaming room setup](https://github.com/roxyshiran/RoxyRepo/raw/main/rox) 
 # Roksana Shiran
 
 
