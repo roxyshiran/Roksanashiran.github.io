@@ -1,5 +1,5 @@
 
-![roxyshiran gaming room - gif of my actual gaming room setup](https://github.com/roxyshiran/RoxyRepo/raw/main/rox) 
+![roxyshiran gaming room - gif of my actual gaming room setup](https://github.com/roxyshiran/RoxyRepo/raw/main/rox-webp) 
 # Roksana Shiran
 
 
