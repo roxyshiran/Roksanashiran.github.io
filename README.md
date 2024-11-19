@@ -1,5 +1,7 @@
 
 
+<img src="/rox.jpg" alt="roxyshiran" width="600" />
+
 
 # Roksana Shiran
 
