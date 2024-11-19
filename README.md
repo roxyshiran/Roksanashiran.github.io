@@ -1,6 +1,6 @@
 
 
-<img src="/rox.jpg" alt="roxyshiran" width="600" />
+<img src="/rox.jpg" alt="roxyshiran" width="800" hight="2800000" />
 
 
 # Roksana Shiran
